@@ -1,0 +1,36 @@
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family:arial;
+}
+body {
+    background-color: aqua;
+}
+.seaone {
+    display:block;
+}
+.images {
+    width:100%;
+}
+img {
+    width:472px;
+    height:250px;
+    margin: 10px;
+}
+.buttons {
+    display:flex;
+    width:100%;
+    justify-content: center;
+    margin-top:200px;
+    
+}
+button {
+    margin:5px;
+    border:none;
+    background-color: blue;
+    padding:10px;
+    font-size:20px;
+    cursor:pointer;
+    color:white;
+}
